@@ -8,7 +8,7 @@ The project demonstrates the complete workflow of a machine learning application
 
 ## 🚀 Live Demo
 
-🔗 **Streamlit App:** `YOUR_STREAMLIT_APP_URL`
+🔗 **Streamlit App:** `https://heart-stroke-prediction-gm4vbnkjarhaum5wf6sl3w.streamlit.app/`
 
 ---
 
